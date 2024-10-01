@@ -31,11 +31,9 @@ Instale as dependências:
 bash
 
 npm install
-Inicie o aplicativo:
-
-bash
-
 npm start
+
+
 Siga as instruções no terminal para abrir o aplicativo no seu dispositivo móvel ou em um emulador.
 
 Contribuição
@@ -54,7 +52,7 @@ Para mais informações, entre em contato:
 
 Nome: Felipe Salviano
 Email: felipesalviano00@hotmail.com
-LinkedIn: [Seu Perfil](https://www.linkedin.com/in/felipe-salviano-a9821723b/)
+LinkedIn: [Felipe Salviano](https://www.linkedin.com/in/felipe-salviano-a9821723b/)
 
 
 
